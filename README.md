@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Qaid Alaamry</h1>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
-</p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/> 
-</p>
+
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Qaid+Alaamry!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />

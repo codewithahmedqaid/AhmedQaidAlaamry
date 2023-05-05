@@ -3,7 +3,9 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Qaid+Alaamry!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
+<p align="left">
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 50px/> 
+</p>
 
 - 🌱 I’m currently learning **Multi Cloud (AWS, Azure, DevOps)**
 

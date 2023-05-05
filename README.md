@@ -10,7 +10,7 @@
       <strong>
         Sr. Back-End Developer,(.Net).
         I specialize in .Net/.NET Core and SQL Server/MySql and I have experience working with Object-Oriented Programming, Design Patterns, and Problem           Solving skills.
-        I am passionate about learning .NET, all Back-End Technologies, AWS, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+        I am passionate about learning .NET, all Back-End Technologies, AWS, Linux, Virtualization, Cloud Computing, and DevOps.<br>
       </strong>
 </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -65,7 +65,6 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </a>
-
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithahmedqaid&show_icons=true&locale=en&layout=compact" alt="codewithahmedqaid" />

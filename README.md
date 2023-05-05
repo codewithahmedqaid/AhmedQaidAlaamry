@@ -16,7 +16,7 @@
     <a href="mailto:ahmedalaamry@outlook.com" title="Outlook"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/aalaamry" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ahmedqaid/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://wa.me/+201205858831" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+  <a href="https://wa.me/+966552581524" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
   
 </p>
 

@@ -4,27 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20+I'm+Ahmed+Qaid+Alaamry!;I'm+a+Software+Developer;Welcome+To+My+Profile!" style="color:mix" />
 </p>
 
-
 - 🌱 I’m currently learning **Multi Cloud (AWS, Azure, DevOps)**
-
 - 💬 Ask me about **C# , .Net/.Net Core, EF And any thing related to .net**
-
 - 📫 How to reach me **ahmedalaamry@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ahmedalaamry@outlook.com" title="Outlook">
-  <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>  
-<a href="https://www.facebook.com/aalaamry" title="Facebook">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ahmedqaid/" title="LinkedIn">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
-<a href="https://wa.me/+966552581524" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
-</a>
+  <a href="mailto:ahmedalaamry@outlook.com" title="Gmail">
+    <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>  
+  <a href="https://www.facebook.com/aalaamry" title="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedqaid/" title="LinkedIn">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
+  <a href="https://wa.me/+966552581524" target="_blank">
+      <img src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -42,12 +40,18 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" title="GitHub">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithahmedqaid&show_icons=true&locale=en&layout=compact" alt="codewithahmedqaid" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithahmedqaid&show_icons=true&locale=en&layout=compact" alt="codewithahmedqaid" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithahmedqaid&show_icons=true&locale=en" alt="codewithahmedqaid" /></p>
 

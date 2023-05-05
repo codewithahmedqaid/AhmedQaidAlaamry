@@ -8,9 +8,10 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <p>
       <strong>
-        Sr. Back-End Developer,(.Net).
-        I specialize in .Net/.NET Core and SQL Server/MySql and I have experience working with Object-Oriented Programming, Design Patterns, and Problem           Solving skills.
-        I am passionate about learning .NET, all Back-End Technologies, AWS, Linux, Virtualization, Cloud Computing, and DevOps.<br>
+        Sr. Back-End Developer,(.Net).<br><br>
+        I specialize in in Microsoft .Net Technologies and experience in design, development and implementation reusable, readable 
+        Components and libraries.<br><br>
+        I am passionate about learning .NET, all Back-End Technologies (.Net, .Net Core, OOP, C#, EF, EF Core,SQL, MYSQL, WEB API , Restfull, Redis,      Elastic, RabbitMQ, AWS,Git,ABP, Boilerplate, Linux, Virtualization, Cloud Computing, and DevOps.
       </strong>
 </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>

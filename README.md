@@ -4,9 +4,27 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20+I'm+Ahmed+Qaid+Alaamry!;I'm+a+Software+Developer;Welcome+To+My+Profile!" style="color:mix" />
 </p>
 
-- 🌱 I’m currently learning **Multi Cloud (AWS, Azure, DevOps)**
-- 💬 Ask me about **C# , .Net/.Net Core, EF And any thing related to .net**
-- 📫 How to reach me **ahmedalaamry@outlook.com**
+      
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<p>
+      <strong>
+        Sr. Back-End Developer,(.Net).
+        I specialize in .Net/.NET Core and SQL Server/MySql and I have experience working with Object-Oriented Programming, Design Patterns, and Problem           Solving skills.
+        I am passionate about learning .NET, all Back-End Technologies, AWS, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+      </strong>
+</p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<ul>
+   <li>🌱 <b>I’m currently learning</b>: Multi cloud (AWS, Azure, DevOps).</li>
+   <li>🎯 <b>I’m currently focusing on</b>: AWS DevOps.</li>
+   <li>💬 <b>Ask me about anything</b>: any thing related to .Net/.Net Core.</li>
+   <li>📫 <b>How to reach me</b>: ahmedalaamry@outlook.com.</li>
+   <li>:thinking: <b>I’m currently open for a new</b>: `job opportunity`.</li>
+   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻).</li>
+  <li>:nerd_face: <b>Always</b>: learning new things.</li>
+  <li>🐼  <b>Doing my best</b>.</li>
+  </ul>
 
 
 <h3 align="left">Connect with me:</h3>

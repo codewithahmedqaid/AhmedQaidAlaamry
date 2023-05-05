@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Qaid Alaamry</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Qaid+Alaamry!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20+I'm+Ahmed+Qaid+Alaamry!;I'm+a+Software+Developer;Welcome+To+My+Profile!" style="color:mix" />
 </p>
 
 

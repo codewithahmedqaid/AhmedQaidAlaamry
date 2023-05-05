@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20+I'm+Ahmed+Qaid+Alaamry!;I'm+a+Software+Developer;Welcome+To+My+Profile!" style="color:mix" />
 </p>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  width=30%x/></p>
 
 - 🌱 I’m currently learning **Multi Cloud (AWS, Azure, DevOps)**
 - 💬 Ask me about **C# , .Net/.Net Core, EF And any thing related to .net**

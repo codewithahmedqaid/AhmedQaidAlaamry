@@ -8,7 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <p>
       <strong>
-        Sr. Back-End Developer,(.Net).<br><br>
+        Sr. Back-End Developer(.Net).<br><br>
         I specialize in Microsoft .Net Technologies and experience in design, development and implementation reusable, readable 
         Components and libraries.<br><br>
         I am passionate about learning .NET, all Back-End Technologies (.Net, .Net Core, OOP, C#, EF, EF Core,SQL, MYSQL, WEB API , Restfull, Redis,      Elastic, RabbitMQ, AWS,Git,ABP, Boilerplate, Linux, Virtualization, Cloud Computing, and DevOps.

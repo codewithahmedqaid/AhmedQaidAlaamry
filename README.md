@@ -9,7 +9,7 @@
 <p>
       <strong>
         Sr. Back-End Developer,(.Net).<br><br>
-        I specialize in in Microsoft .Net Technologies and experience in design, development and implementation reusable, readable 
+        I specialize in Microsoft .Net Technologies and experience in design, development and implementation reusable, readable 
         Components and libraries.<br><br>
         I am passionate about learning .NET, all Back-End Technologies (.Net, .Net Core, OOP, C#, EF, EF Core,SQL, MYSQL, WEB API , Restfull, Redis,      Elastic, RabbitMQ, AWS,Git,ABP, Boilerplate, Linux, Virtualization, Cloud Computing, and DevOps.
       </strong>

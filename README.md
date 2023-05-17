@@ -22,7 +22,7 @@
    <li>💬 <b>Ask me about anything</b>: any thing related to .Net/.Net Core.</li>
    <li>📫 <b>How to reach me</b>: ahmedalaamry@outlook.com.</li>
    <li>:thinking: <b>I’m currently open for a new</b>: `job opportunity`.</li>
-   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻).</li>
+   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻).</li>
   <li>:nerd_face: <b>Always</b>: learning new things.</li>
   <li>🐼  <b>Doing my best</b>.</li>
   </ul>

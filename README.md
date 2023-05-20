@@ -9,10 +9,17 @@
 <p>
       <strong>
         Sr. Back-End Developer(.Net).<br><br>
-        I specialize in Microsoft .Net Technologies and experience in design, development and implementation reusable, readable 
-        Components and libraries.<br><br>
-        I am passionate about learning .NET, all Back-End Technologies (.Net, .Net Core, OOP, C#, Solid, Dsign patterns, EF, EF Core, WEB API, DDD(Basic) Redis(Basic), Elastic(Basic), AWS(Basic), Git, Github, ABP, Boilerplate.
-      </strong>
+        
+        I specialize in .NET Back-End Technologies (.Net, .Net Core, OOP, C#, Solid, Design patterns, EF, EF 
+          Core, WEB API, DDD(Basic) Redis(Basic), Elastic(Basic), AWS(Basic), Git, Github, ABP, Boilerplate.<br><br>
+        Experience in design, development and implementation reusable, readable components and libraries.<br>
+        Experience in analyze system requirements and prioritize tasks.<br>
+        Develop technical specifications and architecture.<br>
+        Review and refactor code.<br>
+        Ability to adapt to new environment and open to learning new technologies.<br> 
+        I am passionate to learning Multi cloud (AWS, Azure, DevOps) and I’m currently focusing on AWS.
+    
+  </strong>
 </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 

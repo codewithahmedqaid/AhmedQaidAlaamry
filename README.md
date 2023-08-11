@@ -34,7 +34,7 @@ I specialize in .NET Back-End Technologies (.Net, .Net Core, OOP, C#, Solid, Des
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:codewithahmed@outlook.com" title="Outlook">
-    <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>  
   <a href="https://www.facebook.com/aalaamry" title="Facebook">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
